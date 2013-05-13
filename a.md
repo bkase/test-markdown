@@ -4,7 +4,7 @@ Yes, it is (also I changed it)
 
 
 A big change.
-a modification. Another.
+a modification
 A small change.
 Some otherasd
 Make a change
