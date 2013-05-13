@@ -6,3 +6,4 @@ I just modified the file.
 A big change.
 another change.
 A small change.
+Some other change.
