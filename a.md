@@ -4,6 +4,6 @@ Yes, it is (also I changed it)
 
 I just modified the file.
 A big change.
-another change.
+a modification.
 A small change.
 Some other change.
