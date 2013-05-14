@@ -1,1 +1,1 @@
-This is some new post.
+This is some new post. Yup.
